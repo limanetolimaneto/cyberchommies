@@ -2,11 +2,18 @@
 
 _Cyberchommie is a gamified learning platform that rewards youth with credits for completing challenges, promoting engagement through technology, creativity, and collaboration._
 
+![MIT License](https://img.shields.io/badge/license-MIT-green)
+![React](https://img.shields.io/badge/frontend-React-blue)
+![Laravel](https://img.shields.io/badge/backend-Laravel-red)
+![MySQL](https://img.shields.io/badge/database-MySQL-yellow)
+
 ---
 
 ## 🧭 Overview
 
-#Cyberchommie is an educational platform designed to re-engage disconnected youth through a game-inspired experience. Participants complete meaningful tasks and challenges to earn virtual credits, which can be exchanged for handcrafted or artistic items. This approach turns learning into an interactive and rewarding journey.
+Cyberchommie is an educational platform designed to re-engage disconnected youth through a game-inspired experience. Participants complete meaningful tasks and challenges to earn virtual credits, which can be exchanged for handcrafted or artistic items. This approach turns learning into an interactive and rewarding journey.
+
+---
 
 The system emphasizes:
 
