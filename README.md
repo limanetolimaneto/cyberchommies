@@ -10,6 +10,7 @@ _Cyberchommie is a gamified learning platform that rewards youth with credits fo
 
 The system emphasizes:
 
+<!-- 
 🎯 Goal-oriented tasks that develop both cognitive and creative skills
 🛠️ Project-based learning, where students see real outcomes from their efforts
 🤝 Peer collaboration, encouraging teamwork and communication
@@ -18,4 +19,8 @@ The system emphasizes:
 By combining these elements, Cyberchommie creates a vibrant learning environment that motivates young people and fosters personal growth.
 
 ---
+
+## ⚙️ Features -->
+
+
 
