@@ -15,18 +15,15 @@ Cyberchommie is an educational platform designed to re-engage disconnected youth
 
 ---
 
-The system emphasizes:
-
-<!-- 
-🎯 Goal-oriented tasks that develop both cognitive and creative skills
-🛠️ Project-based learning, where students see real outcomes from their efforts
-🤝 Peer collaboration, encouraging teamwork and communication
-🎵 Integration with music and art, blending cultural elements with technology
-
-By combining these elements, Cyberchommie creates a vibrant learning environment that motivates young people and fosters personal growth.
+# ⚙️ The system emphasizes:
+- **🎯 Goal-oriented tasks that develop both cognitive and creative skills**
+- **🛠️ Project-based learning, where students see real outcomes from their efforts**
+- **🤝 Peer collaboration, encouraging teamwork and communication**
+- **🎵 Integration with music and art, blending cultural elements with technology**
+_By combining these elements, Cyberchommie creates a vibrant learning environment that motivates young people and fosters personal growth._
 
 ---
-
+<!--
 ## ⚙️ Features -->
 
 
